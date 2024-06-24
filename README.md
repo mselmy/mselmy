@@ -1,6 +1,6 @@
 # Mohamed Selmy Rashied
 
-![Profile Banner](./Banner.gif)
+![Profile Banner](./Assets/Images/Banner.gif)
 
 **Full Stack .NET Developer**  
 El-Gharbia, Egypt (Ready to Reallocate) | [LinkedIn](https://www.linkedin.com/in/mohamed-selmy) | [Email](mailto:mohamed.selmy.rashied@gmail.com)
