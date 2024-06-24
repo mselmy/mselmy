@@ -28,6 +28,7 @@ El-Gharbia, Egypt (Ready to Reallocate) | [LinkedIn](https://www.linkedin.com/in
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![PrimeNG](https://img.shields.io/badge/-PrimeNG-168DEE?style=flat-square&logo=primeng)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ### Back-End Technologies:
@@ -42,22 +43,6 @@ El-Gharbia, Egypt (Ready to Reallocate) | [LinkedIn](https://www.linkedin.com/in
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
-
----
-
-## Projects
-
-### [InsurTech Platform](https://github.com/mselmy/InsurTech-Platform-Front-End)
-A comprehensive platform to explore and purchase insurance products.
-![InsurTech GIF](https://media.giphy.com/media/YOUR_INSURTECH_GIF_LINK_HERE/giphy.gif)
-
-### [Attendance Time Tracking System](https://github.com/AbdelhameedOsama/Attendance-Time-tracking-System-)
-A robust system for managing employee attendance.
-![Attendance GIF](https://media.giphy.com/media/YOUR_ATTENDANCE_GIF_LINK_HERE/giphy.gif)
-
-### [Examination System](https://github.com/EbrahimDawoud/Examination-System)
-An efficient online examination management system.
-![Examination GIF](https://media.giphy.com/media/YOUR_EXAMINATION_GIF_LINK_HERE/giphy.gif)
 
 ---
 
@@ -84,8 +69,10 @@ An efficient online examination management system.
 - **LinkedIn:** [mohamed-selmy](https://www.linkedin.com/in/mohamed-selmy)
 - **GitHub:** [mselmy](https://github.com/mselmy)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mselmy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mselmy&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mselmy&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mselmy&layout=compact&theme=radical" alt="Top Languages" style="height: 200px"/>
+</div>
 
 ---
 
