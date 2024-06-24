@@ -70,8 +70,8 @@ El-Gharbia, Egypt (Ready to Reallocate) | [LinkedIn](https://www.linkedin.com/in
 - **GitHub:** [mselmy](https://github.com/mselmy)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mselmy&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mselmy&layout=compact&theme=radical" alt="Top Languages" style="width: 48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mselmy&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mselmy&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 200px"/>
 </div>
 
 ---
