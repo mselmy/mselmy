@@ -1,9 +1,9 @@
 # Mohamed Selmy Rashied
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](./Banner.gif)
 
 **Full Stack .NET Developer**  
-El-Gharbia, Egypt | [LinkedIn](https://www.linkedin.com/in/mohamed-selmy) | [Email](mailto:mohamed.selmy.rashied@gmail.com)
+El-Gharbia, Egypt (Ready to Reallocate) | [LinkedIn](https://www.linkedin.com/in/mohamed-selmy) | [Email](mailto:mohamed.selmy.rashied@gmail.com)
 
 ---
 
