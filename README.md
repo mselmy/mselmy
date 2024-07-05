@@ -1,6 +1,6 @@
 ![Profile Banner](./Assets/Images/Banner.gif)
 
-El-Gharbia, Egypt (Ready to Reallocate) | [LinkedIn](https://www.linkedin.com/in/mohamed-selmy) | [Email](mailto:mohamed.selmy.rashied@gmail.com) | [CV]([https://flowcv.com/resume/ao6hg8qm25]).
+El-Gharbia, Egypt (Ready to Reallocate) | [LinkedIn](https://www.linkedin.com/in/mohamed-selmy) | [Email](mailto:mohamed.selmy.rashied@gmail.com) | [CV](https://flowcv.com/resume/ao6hg8qm25).
 
 ---
 
