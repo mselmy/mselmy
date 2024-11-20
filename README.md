@@ -63,8 +63,6 @@ El-Gharbia, Egypt (Ready to Reallocate) | [Email](mailto:mohamed.selmy.rashied@g
 ## Get In Touch
 
 - **Email:** [mohamed.selmy.rashied@gmail.com](mailto:mohamed.selmy.rashied@gmail.com)
-- **LinkedIn:** [mohamed-selmy](https://www.linkedin.com/in/mohamed-selmy)
-- **GitHub:** [mselmy](https://github.com/mselmy)
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=mselmy&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 200px"/>
