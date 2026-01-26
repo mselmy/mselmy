@@ -1,6 +1,6 @@
 ![Profile Banner](./Assets/Images/Banner.gif)
 
-El-Gharbia, Egypt (Ready to Reallocate) | [Email](mailto:mohamed.selmy.rashied@gmail.com).
+Cairo, Egypt | [Email](mailto:mohamed.selmy.rashied@gmail.com).
 
 ---
 
